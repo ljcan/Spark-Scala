@@ -1,2 +1,2 @@
 # Spark-Scala
-Spark program with scala
+Mechanical Learning of Spark program with scala
