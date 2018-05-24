@@ -1,2 +1,2 @@
 # Spark-Scala
-Spark program with scala
+Spark MLlib的基本数据类型的使用
