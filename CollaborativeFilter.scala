@@ -95,7 +95,7 @@ object CollaborativeFilter {
         0
     }).foreach(num=>{
       if(num!=0)
-        println("对15号商品预测的准确率为："+result/num)
+        println("对15号商品预测的准确率为："+(1-(math.abs(result-num)/1)))
     })
   }
 }
