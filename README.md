@@ -7,6 +7,8 @@ Spark program with scala
 
 >使用Spark进行二次排序：DoubleSort.scala
 
+>topn问题Demo: Top3.scala
+
 ## Branche of MLlib:机器学习算法Demo
 
 ## Branche of DataStructs:MLlib基本数据类型的使用
