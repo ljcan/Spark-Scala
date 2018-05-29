@@ -5,6 +5,8 @@ Spark program with scala
 
 >Spark Start Demo: FristSparkApp.scala
 
+>使用Spark进行二次排序：DoubleSort.scala
+
 ## Branche of MLlib:机器学习算法Demo
 
 ## Branche of DataStructs:MLlib基本数据类型的使用
