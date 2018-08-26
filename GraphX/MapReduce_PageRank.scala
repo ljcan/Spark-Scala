@@ -4,6 +4,17 @@ import org.apache.spark.{SparkConf, SparkContext}
 
 /**
   * 使用mapreduce模型迭代计算pageRank
+  数据格式如下：
+  A B
+  B A
+  C A D E
+  D A C
+  E A
+  G A C
+  H A C
+  I A C
+  J C
+  K C
   */
 object MapReduce_PageRank {
   def main(args: Array[String]): Unit = {
